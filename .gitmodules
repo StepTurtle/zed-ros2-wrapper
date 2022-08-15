@@ -4,3 +4,6 @@
 [submodule "zed_ros2_examples"]
 	path = zed_ros2_examples
 	url = git@github.com:stereolabs/zed-ros2-examples.git
+[submodule "image_common"]
+	path = image_common
+	url = https://github.com/ros-perception/image_common.git
