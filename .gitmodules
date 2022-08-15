@@ -1,3 +1,6 @@
 [submodule "zed-ros2-interfaces"]
 	path = zed-ros2-interfaces
 	url = https://github.com/stereolabs/zed-ros2-interfaces.git
+[submodule "zed_ros2_examples"]
+	path = zed_ros2_examples
+	url = git@github.com:stereolabs/zed-ros2-examples.git
